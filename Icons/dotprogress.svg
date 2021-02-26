@@ -1,0 +1,10 @@
+<svg id="dotprogress" xmlns="http://www.w3.org/2000/svg" width="33" height="14" viewBox="0 0 33 14">
+  <g id="dotfull" fill="#399723" stroke="#3d3b3b" stroke-width="2">
+    <circle cx="7" cy="7" r="7" stroke="none"/>
+    <circle cx="7" cy="7" r="6" fill="none"/>
+  </g>
+  <g id="dotempty" transform="translate(19)" fill="#fff" stroke="#3d3b3b" stroke-width="2">
+    <circle cx="7" cy="7" r="7" stroke="none"/>
+    <circle cx="7" cy="7" r="6" fill="none"/>
+  </g>
+</svg>

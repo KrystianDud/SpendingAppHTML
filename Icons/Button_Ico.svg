@@ -1,0 +1,11 @@
+<svg id="Button_Ico" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-1" width="27" height="5" rx="2" transform="translate(16) rotate(90)"/>
+  <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-1" width="27" height="5" rx="2" transform="translate(27 16) rotate(180)"/>
+</svg>

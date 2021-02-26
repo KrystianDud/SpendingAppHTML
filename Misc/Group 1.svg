@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="444" viewBox="0 0 286 444">
+  <defs>
+    <style>
+      .cls-1, .cls-20 {
+        fill: none;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-15, .cls-16, .cls-5, .cls-6, .cls-8, .cls-9 {
+        stroke: #707070;
+      }
+
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #707070;
+        font-family: VarelaRound-Regular, Varela Round;
+      }
+
+      .cls-2 {
+        font-size: 22px;
+      }
+
+      .cls-14, .cls-3 {
+        fill: #69d66d;
+      }
+
+      .cls-4, .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+
+      .cls-6 {
+        fill: #fb3a3a;
+      }
+
+      .cls-14, .cls-6 {
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        fill: #403f3f;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-9 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-10 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-11 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-12 {
+        fill: url(#pattern-6);
+      }
+
+      .cls-13 {
+        fill: url(#pattern-7);
+      }
+
+      .cls-14 {
+        stroke: #009f06;
+      }
+
+      .cls-15 {
+        fill: url(#pattern-8);
+      }
+
+      .cls-16 {
+        fill: url(#pattern-9);
+      }
+
+      .cls-17 {
+        fill: #399723;
+      }
+
+      .cls-17, .cls-18 {
+        stroke: #3d3b3b;
+        stroke-width: 2px;
+      }
+
+      .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-19 {
+        stroke: none;
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_28);
+      }
+    </style>
+    <filter id="Rectangle_28" x="75" y="380" width="132" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 200 200">
+      <image width="200" height="200" xlink:href="Group%201-image.png"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 360 360">
+      <image width="360" height="360" xlink:href="Group%201-image2.jpg"/>
+    </pattern>
+    <pattern id="pattern-3" width="1" height="1" viewBox="-4.745 -4.745 73.49 73.49">
+      <image preserveAspectRatio="xMidYMid slice" width="64" height="64" xlink:href="Group%201-image3.png"/>
+    </pattern>
+    <pattern id="pattern-4" width="1" height="1" viewBox="-7.137 -7.137 78.274 78.274">
+      <image preserveAspectRatio="xMidYMid slice" width="64" height="64" xlink:href="Group%201-image4.png"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 225 225">
+      <image width="225" height="225" xlink:href="Group%201-image5.png"/>
+    </pattern>
+    <pattern id="pattern-6" width="1" height="1" viewBox="-9.891 -11.799 87.599 87.599">
+      <image preserveAspectRatio="xMidYMid slice" width="67.817" height="64" xlink:href="Group%201-image6.png"/>
+    </pattern>
+    <pattern id="pattern-7" width="1" height="1" viewBox="-11.701 -12.367 88.735 88.735">
+      <image preserveAspectRatio="xMidYMid slice" width="65.333" height="64" xlink:href="Group%201-image7.png"/>
+    </pattern>
+    <pattern id="pattern-8" width="1" height="1" viewBox="-3.989 -6.41 76.819 76.819">
+      <image preserveAspectRatio="xMidYMid slice" width="68.842" height="64" xlink:href="Group%201-image8.png"/>
+    </pattern>
+    <pattern id="pattern-9" width="1" height="1" viewBox="-6.01 -6.01 76.021 76.021">
+      <image preserveAspectRatio="xMidYMid slice" width="64" height="64" xlink:href="Group%201-image9.png"/>
+    </pattern>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-65 -161)">
+    <line id="Line_19" data-name="Line 19" class="cls-1" x1="10.827" y2="12" transform="translate(83.453 163.951)"/>
+    <line id="Line_20" data-name="Line 20" class="cls-1" x1="10.827" y1="12" transform="translate(83.453 174.659)"/>
+    <text id="Add_Expense" data-name="Add Expense" class="cls-2" transform="translate(137 181)"><tspan x="0" y="0">Add Expense</tspan></text>
+    <g class="cls-21" transform="matrix(1, 0, 0, 1, 65, 161)">
+      <rect id="Rectangle_28-2" data-name="Rectangle 28" class="cls-3" width="114" height="39" rx="13" transform="translate(84 386)"/>
+    </g>
+    <text id="Next" class="cls-4" transform="translate(184 573)"><tspan x="0" y="0">Next</tspan></text>
+    <g id="entertainment">
+      <g id="NoPath_-_Copy_11_" data-name="NoPath - Copy (11)" class="cls-5" transform="translate(271 417)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath" class="cls-6" transform="translate(271 417)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Entertain." class="cls-7" transform="translate(263 499)"><tspan x="0" y="0">Entertain.</tspan></text>
+    </g>
+    <g id="Phone">
+      <g id="NoPath-2" data-name="NoPath" class="cls-8" transform="translate(174 417)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath-3" data-name="NoPath" class="cls-6" transform="translate(174 417)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Phone-2" data-name="Phone" class="cls-7" transform="translate(177 499)"><tspan x="0" y="0">Phone</tspan></text>
+    </g>
+    <g id="Dine_Out" data-name="Dine Out">
+      <g id="NoPath_-_Copy_8_" data-name="NoPath - Copy (8)" class="cls-9" transform="translate(77 417)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath-4" data-name="NoPath" class="cls-6" transform="translate(77 417)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Dine_Out-2" data-name="Dine Out" class="cls-7" transform="translate(65 499)"><tspan x="0" y="0">Dine Out</tspan></text>
+    </g>
+    <g id="Coffee">
+      <g id="NoPath_-_Copy_7_" data-name="NoPath - Copy (7)" class="cls-10" transform="translate(271 311)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath-5" data-name="NoPath" class="cls-6" transform="translate(271 311)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Coffee-2" data-name="Coffee" class="cls-7" transform="translate(274 394)"><tspan x="0" y="0">Coffee</tspan></text>
+    </g>
+    <g id="medicine">
+      <g id="NoPath_-_Copy_6_" data-name="NoPath - Copy (6)" class="cls-11" transform="translate(174 311)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath-6" data-name="NoPath" class="cls-6" transform="translate(174 311)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Medicine-2" data-name="Medicine" class="cls-7" transform="translate(165 394)"><tspan x="0" y="0">Medicine</tspan></text>
+    </g>
+    <g id="Pet">
+      <g id="NoPath_-_Copy_5_" data-name="NoPath - Copy (5)" class="cls-12" transform="translate(77 311)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath-7" data-name="NoPath" class="cls-6" transform="translate(77 311)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Pet-2" data-name="Pet" class="cls-7" transform="translate(91 394)"><tspan x="0" y="0">Pet</tspan></text>
+    </g>
+    <g id="food">
+      <g id="NoPath1" class="cls-13" transform="translate(77 217)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath1colour" class="cls-14" transform="translate(77 217)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Food-2" data-name="Food" class="cls-7" transform="translate(87 300)"><tspan x="0" y="0">Food</tspan></text>
+    </g>
+    <g id="fun">
+      <g id="NoPath_-_Copy_3_" data-name="NoPath - Copy (3)" class="cls-15" transform="translate(174 217)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath-8" data-name="NoPath" class="cls-6" transform="translate(174 217)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Night_Out" data-name="Night Out" class="cls-7" transform="translate(161 300)"><tspan x="0" y="0">Night Out</tspan></text>
+    </g>
+    <g id="Bills">
+      <g id="NoPath-9" data-name="NoPath" class="cls-6" transform="translate(271 217)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <g id="NoPath_-_Copy_4_" data-name="NoPath - Copy (4)" class="cls-16" transform="translate(271 217)">
+        <rect class="cls-19" width="64" height="64" rx="18"/>
+        <rect class="cls-20" x="0.5" y="0.5" width="63" height="63" rx="17.5"/>
+      </g>
+      <text id="Bills-2" data-name="Bills" class="cls-7" transform="translate(285 300)"><tspan x="0" y="0">Bills</tspan></text>
+    </g>
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M-1.047,0H24.2" transform="translate(85.5 175.5)"/>
+    <g id="Ellipse_9" data-name="Ellipse 9" class="cls-17" transform="translate(191 591)">
+      <circle class="cls-19" cx="7" cy="7" r="7"/>
+      <circle class="cls-20" cx="7" cy="7" r="6"/>
+    </g>
+    <g id="Ellipse_10" data-name="Ellipse 10" class="cls-18" transform="translate(210 591)">
+      <circle class="cls-19" cx="7" cy="7" r="7"/>
+      <circle class="cls-20" cx="7" cy="7" r="6"/>
+    </g>
+  </g>
+</svg>

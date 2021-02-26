@@ -1,0 +1,18 @@
+<svg id="Button_Btn" xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #69d66d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="47" cy="47" r="47"/>
+  <g id="Button_Ico" transform="translate(34 34)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-2" width="27" height="5" rx="2" transform="translate(16) rotate(90)"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-2" width="27" height="5" rx="2" transform="translate(27 16) rotate(180)"/>
+  </g>
+</svg>

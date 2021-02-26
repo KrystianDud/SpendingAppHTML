@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+
+    <title>SpendTracker</title>
+</head>
+<body>
+    <!-- <div id="windowWarning">
+        <h1>Beware Visitor!</h1>
+        <h2>This website is still a work in progress and the initial design was targted for the mobile devices using lightweight HTML and Javascript</h2>
+        <h3>if you still wish to view this website wihtout any errors and bugs, please switch to the developer mode and resize it to 412x915 further responsive design will be implemented in future!</h3>
+        <p> Note! turning this window off in the developer settings do not guarantee correct functionality!</p>
+        <button id="wbtn" class="warningBtn">Accept the risk!</button>
+    </div> -->
+
+    <div id="sidebar" class="menuSideBar">
+        <div class="menuOptions">
+
+            <div class="userProfileBox">
+                <div class = "userProfilePicture"></div>
+                <h4 id="userProfile">User Profile</h4>
+            </div>
+
+            <h4 id="settings">Settings</h4>
+            <h4 id="about">About</h4>
+            <h4 id="terms">T & C</h4>
+            <h4 id="review">Review</h4>
+
+            <div id="menuLine1">
+                <h5 id="versionHead">Version</h5>
+                <p  id="versionId">1.0.0a</p>
+            </div>
+            
+        </div>
+    </div>
+
+    <div id='appContainer' class="app">
+
+        <div class="floatingChart">
+            <div>
+                <button id="chart_Btn1" class="floatingChartDateBtn" onclick = "floatingChartBtnYear()" >Year</button>
+                <button id="chart_Btn2" class="floatingChartDateBtn" onclick = "floatingChartBtnMonth()" >Month</button>
+                <button id="chart_Btn3" class="floatingChartDateBtnActive" onclick = "floatingChartBtnDay()" >Day</button>
+            </div>
+
+            <div id = "chartData">
+                <canvas id=spendingBreakdown width="300px" height="180" background="grey"></canvas>
+            </div>
+            
+        </div>
+        
+        <div class="top">
+            <div class="nav">
+                <button id="navBtn" class="navButton"></button>
+            </div>
+
+            <div id="calendarNotch">
+                <!-- Dummy data to show the functionality - Do Not use in production! -->
+
+                <!-- <div id="cN1" class="calendarIndividual">
+                    <p class="previousDay">Fri</p>
+                    <p class="previousDate">08/01</p>
+                    <p class="previousDayValue">£2345</p>
+                </div>
+
+
+                <div id="cN0" class="calendarIndividualActive">
+                    <p class="presentDay">Sat</p>
+                    <p class="presentDate">09/01</p>
+                    <p class="presentDayValue">£1530</p>
+                </div> -->
+
+
+            </div>
+        </div>
+        
+        
+        <div class="middle">
+            <div class="statsMini">
+                
+                <div class="statsMiniBox">
+                    <div id="donutchart"></div>
+                </div>
+                
+            </div>
+        </div>
+
+
+        <div class="bottom">
+            <button id="addExp" class="addBtn"></button>
+            <div class="bottomPanel"></div>
+        </div>
+
+
+
+    </div>
+   
+
+    <script src="script.js"></script>
+</body>
+
+</html>
+
+
